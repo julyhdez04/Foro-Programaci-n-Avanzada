@@ -1,3 +1,9 @@
+# ESTE CÓDIGO MUESTRA UN EJEMPLO PARA EL USO DEL "WHILE" EN PYTHON,
+
+# 2025 / 03/ 03 - V. 1. 0. 1 - SE AGREGA ECANBEZADO AL CÓDIGO
+
+# TRABAJÓ: JULIANA HERNÁNDEZ HERNÁNDEZ
+
 # Este programa genera un número secreto y le pide al usuario que lo adivine.
 # Utiliza un bucle WHILE para permitir múltiples intentos hasta que el usuario acierte.
 
